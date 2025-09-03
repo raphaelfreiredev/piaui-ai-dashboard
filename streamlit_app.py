@@ -313,8 +313,6 @@ def main():
         <p><strong>Metodologia:</strong> A coleta de dados utiliza feeds RSS do Google Notícias com termos de busca específicos. 
         A análise de sentimento emprega listas de palavras-chave em português para classificação automática.</p>
         
-        <p><strong>Transparência:</strong> Este sistema foi desenvolvido com auxílio de IA para estruturação do código e 
-        implementação de funcionalidades específicas.</p>
     </div>
     """, unsafe_allow_html=True)
     
