@@ -45,7 +45,7 @@ python scripts/run_collection.py
 python scripts/streamlit_runner.py
 \`\`\`
 
-O dashboard estará disponível em: http://localhost:8501
+O dashboard estará disponível em: https://piaui-ai-dashboard-cbdshy6hddwhq8qxu9fpyc.streamlit.app/
 
 ## 📊 Estrutura do Projeto
 
